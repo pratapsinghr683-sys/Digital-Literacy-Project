@@ -1,0 +1,63 @@
+# Task 4 – Professional Email Drafts
+
+
+## Email 1 – Request for Assignment Deadline Extension
+
+
+To : professor.thakur@vitbhopal.ac.in
+Subject: Request for Extension on Assignment Submission – CSE0001 – Rudra Pratap Singh – 25BAI10050
+
+Dear Dr. thakur ,
+
+I hope this message finds you well.
+
+I am Rudra Pratap Singh, a first-year B.Tech student (AI & ML, Registration No. 25BAI10050), enrolled in your CSE0001 Digital Literacy course. I am writing to respectfully request a short extension on the upcoming project submission deadline, currently set for 31/03/26.
+
+Over the past week, I have been unwell with a fever and was unable to complete Tasks 4 and 5 of the project as thoroughly as I would have liked. I have attached a brief note from the campus health centre for your reference. I have already completed the majority of the project and only require two additional days to finish the remaining sections and review the final report for quality.
+
+I sincerely apologise for any inconvenience this may cause and assure you that this situation is not a regular occurrence. I remain committed to meeting the course standards.
+
+I would be grateful if you could consider extending my deadline to 31/03/26. I am happy to discuss this further at your convenience.
+
+Thank you for your time and understanding.
+
+Yours sincerely,
+Rudra Pratap Singh
+B.Tech – AI & ML, First Year
+Registration No.: 25BAI10050
+VIT Bhopal University
+Email: rudra.25bai@vitbhopal.ac.in
+
+
+
+## Email 2 – Expression of Interest in Summer Internship
+
+To : professor.thakur@vitbhopal.ac.in
+
+Subject:Application for Summer Internship Opportunity – B.Tech AI & ML Student – Rudra Pratap Singh
+
+Dear Internship Coordinator Sir,
+
+I hope you are doing well.
+
+My name is Rudra Pratap Singh, and I am currently a first-year student pursuing B.Tech in Artificial Intelligence and Machine Learning at VIT Bhopal University (Registration No.: 25BAI10050). I came across your organisation's summer internship programme and am writing to express my sincere interest in the opportunity.
+
+Although I am at an early stage of my degree, I have been proactively building foundational skills in programming, data handling, and digital tools. I am eager to gain real-world exposure to how AI and technology are applied in a professional environment, and I believe an internship at your organisation would be an invaluable learning experience.
+
+I am a quick learner, comfortable with self-directed work, and genuinely enthusiastic about contributing to meaningful projects. I would be happy to share any work samples or attend an interview at your convenience.
+
+Please find my GitHub profile here: https://github.com/pratapsinghr683-sys
+And my LinkedIn: www.linkedin.com/in/rudra-pratap-singh-207088364
+
+Thank you for considering my application. I look forward to the possibility of working with your team.
+
+Yours sincerely,
+Rudra Pratap Singh
+B.Tech – Artificial Intelligence & Machine Learning, Year 1
+VIT Bhopal University
+Contact:rudra.25bai@vitbhopal.ac.in
+LinkedIn: www.linkedin.com/in/rudra-pratap-singh-207088364
+GitHub: https://github.com/pratapsinghr683-sys
+
+
+*Task 4 – Part A | CSE0001 – Digital Literacy | Rudra Pratap Singh | 25BAI10050*
